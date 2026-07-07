@@ -12,6 +12,8 @@ This project presents an interactive Uber Sales Dashboard built using Power BI t
 ⭐ Customer Ratings – Average rating of 4.40 <br>
 📅 Monthly Trends – Booking and revenue trends across months
 ## Tools & Technologies
-<li> Power BI – Dashboard creation & visualization <li>
+
+<li> Power BI – Dashboard creation & visualization </li>
 Excel – Data cleaning and preprocessing <br>
-<li>Power Query – Data transformation <li>
+<li>Power Query – Data transformation </li>
+
