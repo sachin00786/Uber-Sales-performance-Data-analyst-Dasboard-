@@ -25,3 +25,7 @@ This project presents an interactive Uber Sales Dashboard built using Power BI t
 
  ## DashBoard
  <img width="1288" height="718" alt="page1-Uber_info" src="https://github.com/user-attachments/assets/e4354431-4888-43da-b5ec-64a32020702d" />
+ <img width="1650" height="840" alt="page2-Uber_sales - Copy" src="https://github.com/user-attachments/assets/dd72c89a-bd82-4419-bcdd-daa3a497763a" />
+ <img width="1613" height="857" alt="page3-Uber_viycle" src="https://github.com/user-attachments/assets/5cd08c5b-efcd-4c7e-9faf-dd7ce84c046f" />
+
+
