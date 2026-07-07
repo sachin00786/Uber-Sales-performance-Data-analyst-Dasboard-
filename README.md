@@ -11,3 +11,7 @@ This project presents an interactive Uber Sales Dashboard built using Power BI t
 🚗 Vehicle Type Performance – Auto, Bike, Go Mini, Sedan, XL comparison <br>
 ⭐ Customer Ratings – Average rating of 4.40 <br>
 📅 Monthly Trends – Booking and revenue trends across months
+## Tools & Technologies
+<li> Power BI – Dashboard creation & visualization <li>
+Excel – Data cleaning and preprocessing
+Power Query – Data transformation
