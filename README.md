@@ -14,6 +14,6 @@ This project presents an interactive Uber Sales Dashboard built using Power BI t
 ## Tools & Technologies
 
 <li> Power BI – Dashboard creation & visualization </li>
-Excel – Data cleaning and preprocessing <br>
+<li>Excel – Data cleaning and preprocessing </li>
 <li>Power Query – Data transformation </li>
 
