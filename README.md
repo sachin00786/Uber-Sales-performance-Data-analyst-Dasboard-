@@ -13,5 +13,5 @@ This project presents an interactive Uber Sales Dashboard built using Power BI t
 📅 Monthly Trends – Booking and revenue trends across months
 ## Tools & Technologies
 <li> Power BI – Dashboard creation & visualization <li>
-<li>Excel – Data cleaning and preprocessing <li>
+Excel – Data cleaning and preprocessing <br>
 Power Query – Data transformation
