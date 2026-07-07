@@ -18,7 +18,7 @@ This project presents an interactive Uber Sales Dashboard built using Power BI t
 <li>Power Query – Data transformation </li>
 
 ## Insights Gained
-🚀 Auto and Go Mini generate the highest bookings
-📉 Some ride cancellations impact total revenue
-📊 Monthly trends show fluctuations in demand
-⭐ High customer satisfaction (4.4 rating)
+🚀 Auto and Go Mini generate the highest bookings <br>
+📉 Some ride cancellations impact total revenue <br>
+📊 Monthly trends show fluctuations in demand <br>
+⭐ High customer satisfaction (4.4 rating) <br>
