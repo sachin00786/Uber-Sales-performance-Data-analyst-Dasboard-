@@ -22,3 +22,6 @@ This project presents an interactive Uber Sales Dashboard built using Power BI t
 📉 Some ride cancellations impact total revenue <br>
 📊 Monthly trends show fluctuations in demand <br>
 ⭐ High customer satisfaction (4.4 rating) <br>
+
+ ## DashBoard
+ <img width="1288" height="718" alt="page1-Uber_info" src="https://github.com/user-attachments/assets/e4354431-4888-43da-b5ec-64a32020702d" />
