@@ -3,3 +3,11 @@
 This project presents an interactive Uber Sales Dashboard built using Power BI to analyze ride bookings, revenue, and customer trends. The dashboard provides clear insights into business performance, helping stakeholders make data-driven decisions
 ## Dataset Used
 <a href="https://github.com/sachin00786/Uber-Sales-performance-Data-analyst-Dasboard-/blob/main/uber.xlsx">Dataset</a>
+## Key Features
+📌 Total Bookings Analysis – Track overall ride requests (139K bookings)
+✅ Completed vs Cancelled Rides – Compare success and failure rates
+💰 Revenue Insights – Total revenue of 48M analyzed visually
+📍 Distance Tracking – Total travel distance of 2.33M km
+🚗 Vehicle Type Performance – Auto, Bike, Go Mini, Sedan, XL comparison
+⭐ Customer Ratings – Average rating of 4.40
+📅 Monthly Trends – Booking and revenue trends across months
